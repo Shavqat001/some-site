@@ -1,0 +1,30 @@
+.main-section__header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+.main-section__title {
+    font-size: 47px;
+    font-weight: 700;
+    margin: 0;
+    margin-right: 50px;
+}
+
+.main-section__description {
+    margin: 0;
+    margin-right: 50px;
+}
+
+.main-section__language {
+    transform: rotate(-90deg);
+    margin: 0;
+    padding-top: 50px;
+}
+
+.main-section__image {
+    margin-bottom: 104px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,28 @@
+.about {
+    background-color: #F6F6F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-bottom: 91px;
+}
+
+.about__title {
+    font-size: 34px;
+    line-height: 42px;
+    font-weight: 700;
+    margin-top: 120px;
+    margin-bottom: 17px;
+}
+
+.about__description {
+    margin: 0;
+    margin-bottom: 30px;
+    line-height: 21px;
+    font-size: 18px;
+}
+
+.about__description:last-child {
+    margin-bottom: 107px;
+}

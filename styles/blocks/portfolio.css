@@ -1,0 +1,23 @@
+.portfolio {
+    background-color: #F6F6F6;
+    padding-top: 112px;
+    padding-bottom: 96px;
+}
+
+.portfolio__title {
+    font-size: 34px;
+    line-height: 42px;
+    margin: 0;
+    margin-bottom: 47px;
+}
+.portfolio__images {
+    margin-bottom: 44px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.portfolio__description {
+    margin: 0;
+    margin-bottom: 99px;
+    font-size: 18px;
+    line-height: 21px;
+}
